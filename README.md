@@ -1,4 +1,4 @@
-# ecommerce-analytics-portfolio
+## ecommerce-analytics-portfolio
 Proyecto de análisis de datos para e-commerce: SQL, Power BI, storytelling y automatización
 # English version
 # Project Description
