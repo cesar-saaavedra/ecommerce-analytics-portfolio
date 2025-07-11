@@ -18,6 +18,7 @@ To showcase my ability to:
 # Spanish version
 
 ## Descripción general del proyecto
+
 Este proyecto simula un entorno de análisis para una tienda online. A partir de datos de productos, ventas y clientes, se diseñó un modelo relacional, se construyeron consultas en SQL para extraer indicadores clave (KPIs) y se visualizó la información en Power BI para presentar insights útiles para la toma de decisiones.
 ---
 ## Objetivo
