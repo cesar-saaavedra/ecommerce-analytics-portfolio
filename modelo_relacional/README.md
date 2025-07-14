@@ -1,4 +1,4 @@
-#README en español
+# README en español
 
 # Modelo Relacional
 Este modelo relacional representa la estructura de datos utilizada para simular el entorno de una tienda física que vende productos electrónicos. 
@@ -19,7 +19,7 @@ Este modelo relacional representa la estructura de datos utilizada para simular 
 3. Comienza a explorar los datos y escribir consultas analíticas.
 
 -
-#README in English
+# README in English
 
 # Relational Model
 This relational model represents the data structure used to simulate the environment of a physical store that sells electronics.
