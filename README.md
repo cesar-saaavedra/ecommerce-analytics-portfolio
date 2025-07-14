@@ -1,4 +1,4 @@
-# ecommerce-analytics-portfolio
+# Data-analytics-portfolio
 Data analysis project for the sales team using tools such as SQL, Power BI, and automation processes to generate actionable insights.
 # English version
 ## Project Description
@@ -44,7 +44,7 @@ Mostrar mis capacidades como analista en:
 ## Estructura del repositorio
 
 ```bash
-ecommerce-analytics-portfolio/
+Data-analytics-portfolio/
 ├── modelo_relacional/      # Diagrama entidad-relación y scripts SQL
 ├── data/                   # Datos simulados en formato CSV
 ├── consultas_sql/          # Consultas para KPIs y análisis
