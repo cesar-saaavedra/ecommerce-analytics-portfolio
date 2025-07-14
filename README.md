@@ -1,4 +1,4 @@
-# Data-analytics-portfolio
+# ecommerce-analytics-portfolio
 Data analysis project for the sales team using tools such as SQL, Power BI, and automation processes to generate actionable insights.
 # English version
 ## Project Description
