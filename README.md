@@ -1,8 +1,8 @@
-# ecommerce-analytics-portfolio
-Proyecto de análisis de datos para e-commerce: SQL, Power BI, storytelling y automatización
+# Data-analytics-portfolio
+Data analysis project for the sales team using tools such as SQL, Power BI, and automation processes to generate actionable insights.
 # English version
 ## Project Description
-This project simulates a data analysis environment for an online store. Based on data about products, customers, and sales, I designed a relational model, wrote SQL queries to extract KPIs, and built a Power BI dashboard to present actionable insights.
+This project simulates a data analysis environment based on the operations of a physical store selling electronics. Using data related to products, customers, salespeople, and transactions, I designed a relational model, wrote SQL queries to extract key KPIs, and developed a Power BI dashboard to present actionable insights.
 
 ## Goal
 To showcase my ability to:
@@ -18,7 +18,7 @@ To showcase my ability to:
 # Spanish version
 
 ## Descripción general del proyecto
-Este proyecto simula un entorno de análisis para una tienda online. A partir de datos de productos, ventas y clientes, se diseñó un modelo relacional, se construyeron consultas en SQL para extraer indicadores clave (KPIs) y se visualizó la información en Power BI para presentar insights útiles para la toma de decisiones.
+Este proyecto simula un entorno de análisis de datos basado en la operación de una tienda física que vende productos electrónicos. A partir de datos relacionados con productos, clientes, vendedores y ventas, diseñé un modelo relacional, escribí consultas SQL para calcular KPIs clave y desarrollé un dashboard en Power BI para presentar insights accionables.
 
 ## Objetivo
 Mostrar mis capacidades como analista en:
