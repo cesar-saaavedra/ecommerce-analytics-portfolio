@@ -3,7 +3,7 @@
 # Modelo Relacional
 Este modelo relacional representa la estructura de datos utilizada para simular el entorno de una tienda física que vende productos electrónicos. 
 
-##Se diseñó con el fin de:
+## Se diseñó con el fin de:
 - Establecer relaciones claras entre productos, clientes, vendedores y transacciones.
 - Servir como base para la escritura de consultas SQL orientadas al análisis comercial.
 - Facilitar la creación de visualizaciones en Power BI mediante un modelo bien estructurado.
@@ -24,7 +24,7 @@ Este modelo relacional representa la estructura de datos utilizada para simular 
 # Relational Model
 This relational model represents the data structure used to simulate the environment of a physical store that sells electronics.
 
-##It was designed to:
+## It was designed to:
 - Define clear relationships between products, customers, sellers, and transactions.
 - Serve as the foundation for writing SQL queries focused on business analysis.
 - Enable the creation of Power BI visualizations through a well-structured model.
