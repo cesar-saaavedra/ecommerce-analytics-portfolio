@@ -44,7 +44,7 @@ Mostrar mis capacidades como analista en:
 ## Estructura del repositorio
 
 ```bash
-Data-analytics-portfolio/
+ecommerce-analytics-portfolio/
 ├── modelo_relacional/      # Diagrama entidad-relación y scripts SQL
 ├── data/                   # Datos simulados en formato CSV
 ├── consultas_sql/          # Consultas para KPIs y análisis
