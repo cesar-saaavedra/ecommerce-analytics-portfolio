@@ -14,8 +14,6 @@ Esta carpeta contiene los archivos `.csv` que representan las tablas del modelo 
 - `Ordenes.csv`
 - `Detalles_orden.csv`
 - `Envios.csv`
-- `SQL_Data_to_Tables.sql`
-- `SQL_Tables.sql`
 
 ## Descripción
 
@@ -51,8 +49,6 @@ This folder contains `.csv` files representing the relational database tables of
 - `Ordenes.csv`
 - `Detalles_orden.csv`
 - `Envios.csv`
-- `SQL_Data_to_Tables.sql`
-- `SQL_Tables.sql`
 
 ## Description
 
