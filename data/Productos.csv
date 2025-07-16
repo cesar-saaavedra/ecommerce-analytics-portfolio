@@ -1,0 +1,22 @@
+Nombre_producto,Precio_unitario,Id_categoria,Stock
+HP Pavilion Desktop,1800000,1,15
+Dell Inspiron 3880,2000000,1,12
+Lenovo IdeaCentre AIO,2200000,1,10
+ASUS VivoBook 15,2600000,2,25
+HP Envy x360,3100000,2,20
+Acer Aspire 5,2300000,2,30
+Apple Mac Mini M2,3600000,3,8
+Intel NUC 11,2900000,3,10
+Raspberry Pi 4 Kit,350000,3,40
+Teclado Mecánico Logitech,250000,4,50
+Mouse Inalámbrico Logitech,150000,4,45
+Webcam HD 1080p,200000,4,35
+Memoria RAM 16GB DDR4,300000,5,60
+Disco SSD 1TB,450000,5,40
+Fuente de poder 600W,280000,5,20
+Monitor 24 pul Samsung,700000,6,18
+Auriculares Gamer HyperX,350000,6,25
+Router TP-Link Archer C6,220000,7,30
+Switch de Red 8 puertos,180000,7,20
+Microsoft Office 365,350000,8,80
+Antivirus Kaspersky 1 Año,90000,8,90
