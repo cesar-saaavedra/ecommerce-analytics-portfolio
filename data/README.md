@@ -1,4 +1,4 @@
-# Versión en español
+# Spanish version
 
 # Carpeta: data
 
