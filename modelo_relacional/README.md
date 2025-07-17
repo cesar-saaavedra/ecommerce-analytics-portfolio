@@ -15,8 +15,8 @@ Este modelo relacional representa la estructura de datos utilizada para simular 
 ## Uso sugerido
 
 1. Revisa el diagrama para entender cómo se relacionan las entidades.
-2. Ejecuta el script SQL en tu gestor de base de datos preferido.
-3. Comienza a explorar los datos y escribir consultas analíticas.
+2. Ejecuta el script SQL en tu gestor de SQL Server.
+3. Comienza a explorar los datos.
 
 -
 # README in English
@@ -36,5 +36,5 @@ This relational model represents the data structure used to simulate the environ
 ## Suggested usage
 
 1. Review the diagram to understand how entities are related.
-2. Run the SQL script in your preferred database system.
-3. Start exploring the data and writing analytical queries.
+2. Run the SQL script in your SQL Server management tool.
+3. Start exploring the data.
