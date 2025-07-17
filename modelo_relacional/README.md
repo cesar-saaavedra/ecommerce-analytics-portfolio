@@ -11,6 +11,8 @@ Este modelo relacional representa la estructura de datos utilizada para simular 
 ## Archivos incluidos
 - `Sales Data Model.png`: Diagrama visual del modelo relacional.
 - `Sales Data Model.sql`: Script para crear las tablas y relaciones del modelo en un sistema de base de datos SQL utilizando (dbdiagram.io).
+- `SQL_Data_to_Tables.sql`: Script para cargar los datos desde la carpeta data.
+- `SQL_Tables.sql`: Script de creación de tablas en SQL Server.
 
 ## Uso sugerido
 
@@ -32,6 +34,8 @@ This relational model represents the data structure used to simulate the environ
 ## Included files
 - `Sales Data Model.png`: Visual diagram of the relational model.
 - `Sales Data Model.sql`: Script to create the tables and relationships of the model in a SQL database system using (dbdiagram.io).
+- `SQL_Data_to_Tables.sql`: Script to load data from the data folder.
+- `SQL_Tables.sql`: Table creation script in SQL Server.
 
 ## Suggested usage
 
