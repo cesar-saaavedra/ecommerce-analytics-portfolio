@@ -1,3 +1,5 @@
+# Spanish version
+
 # Consultas SQL para análisis de KPIs
 
 Este archivo contiene un conjunto de consultas SQL diseñadas para analizar los principales indicadores clave de rendimiento (KPIs) de una tienda física de tecnología. Las consultas están construidas para ser ejecutadas en SQL Server y se basan en los datos generados en la carpeta `/data`.
