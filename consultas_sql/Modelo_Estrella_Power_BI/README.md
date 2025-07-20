@@ -1,3 +1,5 @@
+Spanish versión
+
 # Modelo Estrella Power BI – Proyecto de Ventas
 
 Este proyecto contiene el desarrollo de un modelo estrella optimizado para su uso en Power BI, basado en un conjunto de datos de ventas. Fue diseñado siguiendo buenas prácticas de modelado dimensional, con el objetivo de facilitar el análisis eficiente de los indicadores clave del negocio (KPIs).
@@ -77,6 +79,8 @@ modelo_estrella_powerbi/
 ├── modelo.pbix # Archivo de Power BI con el modelo final
 ├── README.md # Este archivo
 ----
+
+English version
 
 # Star Schema Power BI Model – Sales Project
 
