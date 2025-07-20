@@ -1,4 +1,4 @@
-# Spanish versión
+# Spanish version
 
 # Modelo Estrella Power BI – Proyecto de Ventas
 
