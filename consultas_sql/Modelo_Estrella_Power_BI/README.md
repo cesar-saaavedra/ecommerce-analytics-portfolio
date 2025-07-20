@@ -152,10 +152,9 @@ These indicators were created based on previously defined business questions. Th
 ## Included Files
 star_schema_powerbi/
 │
-├── fact_sales.sql # Script to create the fact table
-├── dim_client.sql # Script to create client dimension table
-├── dim_employee.sql # Script to create employee dimension table
-├── dim_product.sql # Script to create product dimension table
-├── dim_date.sql # Script to create date dimension
-├── model.pbix # Power BI file with the final model
-├── README.md # This file
+├── fact_sales.sql
+├── dim_client.sql
+├── dim_employee.sql
+├── dim_product.sql
+├── dim_date.sql
+├── README.md
