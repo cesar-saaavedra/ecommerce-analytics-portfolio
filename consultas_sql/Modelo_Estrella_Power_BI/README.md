@@ -67,7 +67,7 @@ Estos indicadores fueron definidos en base a preguntas de negocio previamente fo
 - Lenguaje DAX (para indicadores y visualizaciones)
 
 ---
-
+```bash
 ## Archivos incluidos
 modelo_estrella_powerbi/
 │
@@ -77,7 +77,7 @@ modelo_estrella_powerbi/
 ├── dim_producto.sql
 ├── dim_fecha.sql
 ├── README.md
-
+```
 
 # English version
 
@@ -148,7 +148,7 @@ These indicators were created based on previously defined business questions. Th
 - DAX Language (for KPIs and visualizations)
 
 ---
-
+```bash
 ## Included Files
 star_schema_powerbi/
 │
@@ -158,3 +158,4 @@ star_schema_powerbi/
 ├── dim_product.sql
 ├── dim_date.sql
 ├── README.md
+```
