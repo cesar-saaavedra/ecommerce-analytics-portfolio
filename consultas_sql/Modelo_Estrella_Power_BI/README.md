@@ -70,7 +70,7 @@ Estos indicadores fueron definidos en base a preguntas de negocio previamente fo
 
 ## Archivos incluidos
 modelo_estrella_powerbi/
-
+│
 ├── fact_ventas.sql # Script de creación de la tabla de hechos
 ├── dim_cliente.sql # Script tabla de dimensión cliente
 ├── dim_empleado.sql # Script tabla de dimensión empleado
