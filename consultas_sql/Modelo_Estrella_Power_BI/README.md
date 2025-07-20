@@ -1,4 +1,4 @@
-Spanish versión
+# Spanish versión
 
 # Modelo Estrella Power BI – Proyecto de Ventas
 
@@ -80,7 +80,7 @@ modelo_estrella_powerbi/
 ├── README.md # Este archivo
 ----
 
-English version
+# English version
 
 # Star Schema Power BI Model – Sales Project
 
