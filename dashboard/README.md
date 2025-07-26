@@ -22,7 +22,7 @@ Para esta versión final:
 ## Visualiza el Dashboard en Power BI
 
 Este proyecto incluye un dashboard interactivo desarrollado en Power BI
-[🔗 Haz clic aquí para ver el Dashboard completo en Power BI](https://app.powerbi.com/view?https://app.powerbi.com/view?r=eyJrIjoiOTdlMDFmMzgtZjg0MC00OTgzLWI0MGMtMmNjZjUyZjMzZTM4IiwidCI6IjdmMThjZDE2LTgyZWYtNGVjMC04M2ZlLTJmMDBkYTUyNjAxOSIsImMiOjR9)
+[🔗 Haz clic aquí para ver el Dashboard completo en Power BI](https://app.powerbi.com/view?r=eyJrIjoiOTdlMDFmMzgtZjg0MC00OTgzLWI0MGMtMmNjZjUyZjMzZTM4IiwidCI6IjdmMThjZDE2LTgyZWYtNGVjMC04M2ZlLTJmMDBkYTUyNjAxOSIsImMiOjR9)
 
 *Nota: El dashboard está alojado en Power BI Service. Asegúrate de tener conexión a internet para visualizarlo correctamente.*
 
@@ -58,7 +58,7 @@ For this final version:
 ## View the Dashboard in Power BI
 
 This project includes an interactive dashboard developed in Power BI, showcasing key performance metrics for a fictional ecommerce business.
-[🔗 Haz clic aquí para ver el Dashboard completo en Power BI](https://app.powerbi.com/view?https://app.powerbi.com/view?r=eyJrIjoiOTdlMDFmMzgtZjg0MC00OTgzLWI0MGMtMmNjZjUyZjMzZTM4IiwidCI6IjdmMThjZDE2LTgyZWYtNGVjMC04M2ZlLTJmMDBkYTUyNjAxOSIsImMiOjR9)
+[🔗 Haz clic aquí para ver el Dashboard completo en Power BI](https://app.powerbi.com/view?r=eyJrIjoiOTdlMDFmMzgtZjg0MC00OTgzLWI0MGMtMmNjZjUyZjMzZTM4IiwidCI6IjdmMThjZDE2LTgyZWYtNGVjMC04M2ZlLTJmMDBkYTUyNjAxOSIsImMiOjR9)
 
 > *Note: The dashboard is hosted on Power BI Service. Please make sure you have an internet connection to view it properly.*
 
