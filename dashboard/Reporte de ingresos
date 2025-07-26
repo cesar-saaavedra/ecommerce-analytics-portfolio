@@ -1,0 +1,40 @@
+index.html
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <title>Dashboard de Ingresos - Power BI</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 2rem;
+      background-color: #f5f5f5;
+      text-align: center;
+    }
+
+    h1 {
+      color: #333;
+      margin-bottom: 2rem;
+    }
+
+    iframe {
+      width: 90%;
+      max-width: 1000px;
+      height: 600px;
+      border: none;
+      box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    }
+  </style>
+</head>
+<body>
+  <h1>Dashboard de Ingresos</h1>
+  <iframe 
+    title="Reporte de ingresos"
+    src="https://app.powerbi.com/view?r=eyJrIjoiOTdlMDFmMzgtZjg0MC00OTgzLWI0MGMtMmNjZjUyZjMzZTM4IiwidCI6IjdmMThjZDE2LTgyZWYtNGVjMC04M2ZlLTJmMDBkYTUyNjAxOSIsImMiOjR9"
+    allowFullScreen="true">
+  </iframe>
+</body>
+</html>
+Add index.html with embedded Power BI dashboard
