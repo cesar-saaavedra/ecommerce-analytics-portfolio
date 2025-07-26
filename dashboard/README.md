@@ -26,8 +26,6 @@ Este proyecto incluye un dashboard interactivo desarrollado en Power BI
 
 *Nota: El dashboard está alojado en Power BI Service. Asegúrate de tener conexión a internet para visualizarlo correctamente.*
 
-El archivo `index.html` embebe el dashboard publicado en Power BI para facilitar su consulta y navegación desde el navegador.
-
 ---
 
 > 💡 Si estás viendo este repositorio desde GitHub Pages, puedes acceder al reporte directamente desde la URL pública correspondiente.
